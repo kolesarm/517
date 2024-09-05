@@ -26,6 +26,7 @@ material covered.
    random variables, quantiles, expectations, independence, covariance, the
    multivariate normal distribution [Notes](eco517_l1.pdf)
 2. Convergence, law of large numbers, central limit theorem, delta method
+   [Notes](eco517_l2.pdf)
 3. Statistical decision theory, estimation
 4. Sufficient statistics, Rao-Blackwell theorem
 5. Maximum likelihood, Fisher information, and the Cramér-Rao bound
