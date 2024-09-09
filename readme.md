@@ -27,9 +27,12 @@ material covered.
    multivariate normal distribution [Notes](eco517_l1.pdf)
 2. Convergence, law of large numbers, central limit theorem, delta method
    [Notes](eco517_l2.pdf)
-3. Statistical decision theory, estimation
-4. Sufficient statistics, Rao-Blackwell theorem
-5. Maximum likelihood, Fisher information, and the Cramér-Rao bound
+3. Statistical decision theory, admissibility, unbiasedness, minimax risk,
+   asymptotic properties of estimators [Notes](eco517_l3.pdf)
+4. Sufficient statistics, factorization theorem, Rao-Blackwell theorem
+   [Notes](eco517_l4.pdf)
+5. Maximum likelihood, Fisher information, the Cramér-Rao bound, and the method
+   of moments
 6. Large sample properties of maximul likelihood estimators
 7. Bayesian concepts. Complete class theorem.
 8. Testing concepts.
