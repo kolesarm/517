@@ -32,8 +32,8 @@ material covered.
 4. Sufficient statistics, factorization theorem, Rao-Blackwell theorem
    [Notes](eco517_l4.pdf)
 5. Maximum likelihood, Fisher information, the Cramér-Rao bound, and the method
-   of moments
-6. Large sample properties of maximul likelihood estimators
+   of moments. [Notes](eco517_l5.pdf)
+6. Large sample properties of maximul likelihood estimators. [Notes](eco517_l6.pdf)
 7. Bayesian concepts. Complete class theorem.
 8. Testing concepts.
 9. Neyman-Pearson lemma. Unbiased tests.
