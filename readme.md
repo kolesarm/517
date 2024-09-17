@@ -33,7 +33,8 @@ material covered.
    [Notes](eco517_l4.pdf)
 5. Maximum likelihood, Fisher information, the Cramér-Rao bound, and the method
    of moments. [Notes](eco517_l5.pdf)
-6. Large sample properties of maximul likelihood estimators. [Notes](eco517_l6.pdf)
+6. Large sample properties of maximum likelihood estimators.
+   [Notes](eco517_l6.pdf)
 7. Bayesian concepts. Complete class theorem.
 8. Testing concepts.
 9. Neyman-Pearson lemma. Unbiased tests.
