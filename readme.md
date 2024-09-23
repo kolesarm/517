@@ -27,19 +27,23 @@ material covered.
    multivariate normal distribution [Notes](eco517_l1.pdf)
 2. Convergence, law of large numbers, central limit theorem, delta method
    [Notes](eco517_l2.pdf)
-3. Statistical decision theory, admissibility, unbiasedness, minimax risk,
-   asymptotic properties of estimators [Notes](eco517_l3.pdf)
+3. Statistical decision theory, game theory, and expected utility.
+   Admissibility, unbiasedness, minimax risk, asymptotic properties of
+   estimators [Notes](eco517_l3.pdf)
 4. Sufficient statistics, factorization theorem, Rao-Blackwell theorem
    [Notes](eco517_l4.pdf)
-5. Maximum likelihood, Fisher information, the Cramér-Rao bound, and the method
-   of moments. [Notes](eco517_l5.pdf)
-6. Large sample properties of maximum likelihood estimators.
-   [Notes](eco517_l6.pdf)
-7. Bayesian concepts. Complete class theorem.
-8. Testing concepts.
+5. Maximum likelihood, Fisher information, the information (Cramér-Rao) bound,
+   and the method of moments. [Notes](eco517_l5.pdf)
+6. Large sample properties of maximum likelihood estimators. Maximum likelihood
+   is asymptotically minimax. [Notes](eco517_l6.pdf)
+7. Bayesian concepts. Complete class theorem. A good frequentist agrees with at
+   least one Bayesian in finite samples; no frequentist is allowed to make fun
+   of any non-dogmatic Bayesian. [Notes](eco517_l7.pdf)
+8. Testing concepts. [Notes](eco517_l8.pdf)
 9. Neyman-Pearson lemma. Unbiased tests.
 10. Testing in large samples
-11. Confidence sets. Pratt's theorem.
+11. Confidence sets. All good frequentists and non-dogmatic Bayesians agree in
+    large samples.
 
 # Errors
 
