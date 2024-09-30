@@ -34,16 +34,19 @@ material covered.
    [Notes](eco517_l4.pdf)
 5. Maximum likelihood, Fisher information, the information (Cramér-Rao) bound,
    and the method of moments. [Notes](eco517_l5.pdf)
-6. Large sample properties of maximum likelihood estimators. Maximum likelihood
-   is asymptotically minimax. [Notes](eco517_l6.pdf)
+6. Large-sample properties of maximum likelihood estimators. Maximum likelihood
+   is asymptotically normal. It is also asymptotically minimax.
+   [Notes](eco517_l6.pdf)
 7. Bayesian concepts. Complete class theorem. A good frequentist agrees with at
    least one Bayesian in finite samples; no frequentist is allowed to make fun
    of any non-dogmatic Bayesian. [Notes](eco517_l7.pdf)
 8. Testing concepts. [Notes](eco517_l8.pdf)
-9. Neyman-Pearson lemma. Unbiased tests.
-10. Testing in large samples
-11. Confidence sets. All good frequentists and non-dogmatic Bayesians agree in
-    large samples.
+9. Testing in small samples. Neyman-Pearson lemma. Unbiased tests.
+   [Notes](eco517_l9.pdf)
+10. Testing in large samples. Wald, Score and likelihood ratio tests are
+    asymptotically chi-squared. They are also asymptotically optimal. [Notes](eco517_l10.pdf)
+11. Confidence sets. Bernstein-von Mises theorem. All good frequentists and
+    non-dogmatic Bayesians agree in large samples. [Notes](eco517_l11.pdf)
 
 # Errors
 
