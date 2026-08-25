@@ -9,14 +9,14 @@ the first year and beyond. We also cover some foundational results that are
 important in their own right, such as the complete class theorem.
 
 For Princeton students, homework and solutions to it will be posted on Canvas.
-Official course description is at the [Registrar's website](https://registrar.princeton.edu/course-offerings/course-details?term=1252&courseid=001446).
+Official course description is at the [Registrar's website](https://registrar.princeton.edu/course-offerings/course-details?term=1272&courseid=001446).
 
 # Notes
 
 This repository provides detailed lecture notes with references. They aim to be
 self-contained, so they can also serve as a reference in your later graduate
 work. As such, a textbook is not needed to survive this course. If your course
-goal is more ambitious than that, it is useful to buy one a the three textbooks
+goal is more ambitious than that, it is useful to buy one of the three textbooks
 listed in the syllabus so that you can get a different perspective on the
 material covered.
 
@@ -25,7 +25,7 @@ material covered.
 1. Probability review: probability spaces, random variables, transformations of
    random variables, quantiles, expectations, independence, the
    multivariate normal distribution [Notes](eco517_l1.pdf)
-2. Convergence, law of large numbers, central limit theorem, delta method
+2. Markov's and Jensen's inequalities. Convergence, law of large numbers, central limit theorem, delta method
    [Notes](eco517_l2.pdf)
 3. Statistical decision theory, game theory, and expected utility.
    Admissibility, unbiasedness, minimax risk, asymptotic properties of
