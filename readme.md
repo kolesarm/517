@@ -23,7 +23,7 @@ material covered.
 # Topics
 
 1. Probability review: probability spaces, random variables, transformations of
-   random variables, quantiles, expectations, independence, covariance, the
+   random variables, quantiles, expectations, independence, the
    multivariate normal distribution [Notes](eco517_l1.pdf)
 2. Convergence, law of large numbers, central limit theorem, delta method
    [Notes](eco517_l2.pdf)
